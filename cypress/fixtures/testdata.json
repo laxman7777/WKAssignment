@@ -1,0 +1,9 @@
+{
+    
+  "values": ["Laxman","Binawade","34566","A@@@@","!@#$%^&*()"],
+  "longStringValue": "shjbc@@bsdhcvbfsbv jhfcjfjv23444bfbvbefjbve hsdcjfjvc$%bfbvfejbv jbhdsfcbdfsjhbD^*vcfd bdfcvhfdbvhdfbv dbhf",
+  "smallScript": "<alert>message</alert>",
+  "Mysinglecharacter": "W",
+  "emptyString": " ",
+  "myString": "Hello Word"
+}
