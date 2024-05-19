@@ -1,7 +1,7 @@
 /// <reference types="Cypress" />
 import CommonPage from "../../cypress/e2e/CommonFile/commonfile";
 
-describe("My Positive Scenarios", function () {
+describe("My Negative Scenarios", function () {
  
     const testCommon = new CommonPage();
     beforeEach(function () {
